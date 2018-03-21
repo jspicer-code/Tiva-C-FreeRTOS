@@ -2,6 +2,6 @@
 
 This project is a port of the Blinky basic demo from the FreeRTOS WIN32-MSVC portable folder, to run on the Tiva C Series EK-TM4C123GXL LaunchPad.  
 
-![Blinky](Task-BlinkGreen.jpg)
+![Blinky](Task-BlinkGreen.JPG)
 
-![Blinky](Task-BlinkRed.jpg)
+![Blinky](Timer-BlinkRed.JPG)
