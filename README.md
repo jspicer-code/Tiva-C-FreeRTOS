@@ -1,6 +1,12 @@
 # Tiva-C-FreeRTOS
 Demos and sample code that run FreeRTOS on the Tiva C series ARM development kits.
 
+# Demos
+
+## Blinky
+
+This project is a port of the Blinky basic demo from the FreeRTOS WIN32-MSVC portable folder, to run on the Tiva C Series EK-TM4C123GXL LaunchPad.  
+
 # Tutorials
 
 ## Tutorial-FreeRTOS-Setup
@@ -13,3 +19,5 @@ The method used in Part 1 requires fewer steps and is the quicker way to get a p
 
 [![](http://img.youtube.com/vi/lj56g2fwfrQ/default.jpg)](https://youtu.be/lj56g2fwfrQ)<br>
 [Watch the video - Part 2](https://youtu.be/lj56g2fwfrQ)
+
+
