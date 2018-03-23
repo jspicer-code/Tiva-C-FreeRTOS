@@ -4,6 +4,9 @@ In this tutorial, I will show how to set up a FreeRTOS project for the Tiva C TM
 
 The method used in Part 1 requires fewer steps and is the quicker way to get a project up and running.  However, if you prefer a minimalist approach and/or a non-CMSIS implementation, then you might want to use the second method (Part 2) instead.  I recommend going through the steps in Part 1 before trying Part 2, because (with a few modifications) you will be able to reuse the FreeRTOSConfig.h file that is generated there.
 
+[Step-by-Step Writeup: FreeRTOS for Tiva C TM4C123x - Keil Project Setup](Tutorial-FreeRTOS-Setup.pdf)
+
+
 [![](http://img.youtube.com/vi/2OqZpkLucUY/2.jpg)](https://youtu.be/2OqZpkLucUY)<br>
 [Watch the video - Part 1](https://youtu.be/2OqZpkLucUY)
 
