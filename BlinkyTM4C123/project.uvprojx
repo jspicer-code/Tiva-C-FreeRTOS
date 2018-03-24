@@ -471,16 +471,6 @@
               <FilePath>.\HAL\HAL_PLL.h</FilePath>
             </File>
             <File>
-              <FileName>HAL_UART.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\HAL\HAL_UART.c</FilePath>
-            </File>
-            <File>
-              <FileName>HAL_UART.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>.\HAL\HAL_UART.h</FilePath>
-            </File>
-            <File>
               <FileName>tm4c123gh6pm.h</FileName>
               <FileType>5</FileType>
               <FilePath>.\HAL\tm4c123gh6pm.h</FilePath>

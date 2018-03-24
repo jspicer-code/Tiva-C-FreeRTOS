@@ -16,5 +16,4 @@
 .\objects\main.o: HAL/HAL.h
 .\objects\main.o: HAL/HAL_NVIC.h
 .\objects\main.o: HAL/HAL_PLL.h
-.\objects\main.o: HAL/HAL_UART.h
 .\objects\main.o: HAL/HAL_GPIO.h

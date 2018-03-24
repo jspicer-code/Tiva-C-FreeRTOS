@@ -44,7 +44,6 @@ typedef struct {
 // Include the other HAL modules.
 #include "HAL_NVIC.h"
 #include "HAL_PLL.h"
-#include "HAL_UART.h"
 #include "HAL_GPIO.h"
 
 #endif
